@@ -1,3 +1,16 @@
-.hidden {
-    display: none;
+@import "reset.css";
+@import "font.css";
+
+/* Components */
+@import "components/backgrounds.css";
+@import "components/clock.css";
+@import "components/greetings.css";
+@import "components/quotes.css";
+@import "components/todo.css";
+@import "components/weather.css";
+
+body {
+  font-family: "NotoSans", sans-serif;
+  color: white;
+  position: relative;
 }

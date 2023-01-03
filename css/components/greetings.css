@@ -1,0 +1,35 @@
+.hidden {
+  display: none;
+}
+
+/* login-form */
+#login-form {
+  position: absolute;
+  top: 55%;
+  left: 50%;
+  transform: translate(-50%, -45%);
+  padding: 3px;
+  border-bottom: 3px solid white;
+}
+#login-form input {
+  font-size: 1.5em;
+  text-align: center;
+  background: transparent;
+  border: none;
+  color: white;
+}
+#login-form input::placeholder {
+  color: white;
+}
+#loginBtn {
+  display: none;
+}
+
+/* #greeting */
+#greeting {
+  position: absolute;
+  top: 55%;
+  left: 50%;
+  transform: translate(-50%, -45%);
+  font-size: 2em;
+}
