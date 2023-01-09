@@ -1,5 +1,3 @@
-# Chrome-App
-바로가기 : https://yoonsungah.github.io/Chrome-App/
 # Chrome App Clone Coding 🌱
 
 Chrome App은 크롬 확장 프로그램 모멘텀(Momentum)을 클론 코딩한 웹 페이지 입니다. Java Script 학습을 위해 진행했습니다.
